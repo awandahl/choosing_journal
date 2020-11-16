@@ -1,5 +1,5 @@
 
-Why should I do this?
+## Why should I do this?
 
 - Find the best possible journal for exactly my topic/subject and my audience
 - Find, compare and evaluate several journals in my field
@@ -23,13 +23,17 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 
 ### General non publisher-specific databases:
 
-- [Dimensions.ai](https://www.dimensions.ai/) (First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
+- [Dimensions.ai](https://www.dimensions.ai/) 
+(First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
 
-- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)  (Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
+- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)  
+(Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
 
-- [JANE](http://jane.biosemantics.org/) (*Biomedicine only*, paste in your abstract and search)
+- [JANE](http://jane.biosemantics.org/) 
+(*Biomedicine only*, paste in your abstract and search)
 
-- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  (More info when logged in)
+- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  
+(More info when logged in)
 
 
 ### Publisher specific:
@@ -61,7 +65,6 @@ https://www.journalguide.com/  (paste in the abstract and search)
 #### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable an seen by your colleagues. If your know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source.*
 
 > Remember that Google Scholar isn't a major bibliographic database even though it's a very common tool for information searching!
-
 > Note that database indexing often is indicated on the journal webpages, [see example at T&F](https://www.tandfonline.com/action/journalInformation?journalCode=cdss20).
 
 
