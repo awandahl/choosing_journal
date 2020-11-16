@@ -8,6 +8,7 @@ Why?
 - Check time from submission to first decision and published article
 - Avoid to submit to a shady publisher
 
+
 Finally arrive to a well motivated decision of a journal where to send my manuscript...
 
 *I have choosen to submit to the journal International Journal of Fracture because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory*
@@ -19,7 +20,7 @@ The aim is to enter an abstract, and possibly a title and some keywords into a d
 
 
 
-Search in general databases:
+Search in general non publisher-specific databases:
 
 [Dimensions.ai](https://www.dimensions.ai/) (First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
 
