@@ -61,6 +61,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 #### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable an seen by your colleagues. If your know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source.*
 
 > Remember that Google Scholar isn't a major bibliographic database even though it's a very common tool for information searching!
+
 > Note that database indexing often is indicated on the journal webpages, [see example at T&F](https://www.tandfonline.com/action/journalInformation?journalCode=cdss20).
 
 
