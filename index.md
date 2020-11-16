@@ -121,8 +121,8 @@ zbMATH
 
 ## 3. Check journal ranking in your subject
 
-> Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
-> SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
+> - Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
+> - SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
 
 CWTS Journal Indicators (SNIP - based on citation data from Scopus. To be noted CWTS Leiden Ranking is based on Web of Science data)
 
