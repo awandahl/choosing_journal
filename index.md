@@ -14,7 +14,7 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 *I have choosen to submit to the journal International Journal of Fracture because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory*
 
 
-##1. Find a candidate based on topic/subject, article type and study type:##
+## 1. Find a candidate based on topic/subject, article type and study type:
 
 The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
