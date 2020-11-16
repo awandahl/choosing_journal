@@ -1,4 +1,6 @@
 
+
+
 ## Why should I do this?
 
 - Find the best possible journal for exactly my topic/subject and my audience
@@ -9,16 +11,16 @@
 - Avoid to submit to a shady publisher
 
 
-Finally arrive to a well motivated decision of a journal where to send my manuscript...
+I will eventually arrive to a well motivated decision of a journal where to send my manuscript and I can say something like...
 
-*"I have choosen to submit to the journal "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*
+*"I have choosen to submit to the "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*
 
 
 
 
 ## 1. Find a candidate based on topic/subject, article type and study type:
 
-#### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
+### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
 
 
 
@@ -26,25 +28,19 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 ### General non publisher-specific databases:
 
 - [Dimensions.ai](https://www.dimensions.ai/) 
-
 (First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
 
 - [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)  
-
 (Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
 
 - [JANE](http://jane.biosemantics.org/) 
-
 (*Biomedicine only*, paste in your abstract and search)
 
 - [Web of Science Master Journals List](https://mjl.clarivate.com/home)  
-
 (More info when logged in)
 
 
 ### Publisher specific:
-
-- ~~[American Chemical Society]~~(https://publish.acs.org/publish/)
 
 - [Elsevier](https://journalfinder.elsevier.com/)
 
@@ -70,7 +66,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
 
-#### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.*
+### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.*
 
 
 > - Remember that Google Scholar isn't a major bibliographic database even though it's a very common tool for information searching! 
@@ -120,6 +116,8 @@ zbMATH
 
 
 ## 3. Check journal ranking in your subject
+
+### *The aim is to compare different journals in terms of the average number of citations that has been received
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
 > - SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
