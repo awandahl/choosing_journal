@@ -1,20 +1,16 @@
 
 Why?
 
-Find the best possible journal for exactly my topic/subject and my audience
+- Find the best possible journal for exactly my topic/subject and my audience
+- Find, compare and evaluate several journals in my field
+- Find alternative journals to submit to in the unlikely event that I'm rejected
+- Find alternative journals that I didn't know of before - just as an orientation
+- Check time from submission to first decision and published article
+- Avoid to submit to a shady publisher
 
-Find, compare and evaluate several journals in my field
+Finally arrive to a well motivated decision of a journal where to send my manuscript...
 
-Find alternative journals to submit to in the unlikely event that I'm rejected
-
-Find alternative journals that I didn't know of before - just as an orientation
-
-Check time from submission to first decision and published article
-
-Avoid to submit to a shady publisher
-
-
-I have choosen to submit to the journal International Journal of Fracture because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, it's covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is happy about my decison.
+*I have choosen to submit to the journal International Journal of Fracture because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory*
 
 
 1. Find a candidate based on topic/subject, article type and study type:
