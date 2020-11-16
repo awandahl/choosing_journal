@@ -71,11 +71,11 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 ### General databases:
 
-[Web of Science Master Journals List](https://mjl.clarivate.com/home) (journal's "profile page" visible after login)
+[Web of Science Master Journals List] (https://mjl.clarivate.com/home) (journal's "profile page" visible after login)
 
-[Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
+[Scopus Sources] (https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
 
-[Journal Guide](https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
+[Journal Guide] (https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
 
 
 ### Subject specific:
