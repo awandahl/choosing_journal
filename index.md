@@ -18,6 +18,7 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 (as well as other aspects like geographical ....... preferences)
 
 
+
 General search:
 
 Dimensions.ai  (Click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - NON OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
