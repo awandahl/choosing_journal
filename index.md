@@ -14,6 +14,8 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 *"I have choosen to submit to the journal "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*
 
 
+
+
 ## 1. Find a candidate based on topic/subject, article type and study type:
 
 #### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
@@ -42,7 +44,7 @@ Finally arrive to a well motivated decision of a journal where to send my manusc
 
 ### Publisher specific:
 
-- [American Chemical Society](https://publish.acs.org/publish/)
+- ~~[American Chemical Society]~~(https://publish.acs.org/publish/)
 
 - [Elsevier](https://journalfinder.elsevier.com/)
 
@@ -62,6 +64,8 @@ http://www.sjfinder.com/journals/recommend  (klistra in abstract och sök)
 http://www.sjfinder.com/journals/home
 
 https://www.journalguide.com/  (paste in the abstract and search)
+
+
 
 
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
@@ -113,10 +117,12 @@ Sociological Abstracts -
 zbMATH
 
 
+
+
 ## 3. Check journal ranking in your subject
 
-    Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
-    SJR and SNIP are field-normalized, JIF and CiteScore are not
+> Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
+> SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
 
 CWTS Journal Indicators (SNIP - based on citation data from Scopus. To be noted CWTS Leiden Ranking is based on Web of Science data)
 
