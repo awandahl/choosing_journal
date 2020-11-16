@@ -119,7 +119,7 @@ zbMATH
 
 ### *The aim is to compare different journals in terms of the average number of citations that has been received
 
-> - Remember to never compare two journals from different subject areas unless the indicator used is field-normalized
+> - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
 
 CWTS Journal Indicators (SNIP - based on citation data from Scopus. To be noted CWTS Leiden Ranking is based on Web of Science data)
