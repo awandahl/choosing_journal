@@ -113,7 +113,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 ## 3. Check journal ranking in your subject
 
-### *The aim is to compare different journals in terms of the average number of citations that these have been received. This is called the Impact Factor in common language. *
+### *The aim is to compare different journals in terms of the average number of citations that these have been received. This is called the Impact Factor in common language.*
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - SJR and SNIP **are** field-normalized, JIF and CiteScore **are not**.
