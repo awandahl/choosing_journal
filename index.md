@@ -27,17 +27,13 @@ I will eventually arrive to a well motivated decision of a journal where to send
 
 ### General non publisher-specific databases:
 
-- [Dimensions.ai](https://www.dimensions.ai/) 
-(First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
+- [Dimensions.ai](https://www.dimensions.ai/) (First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
 
-- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)  
-(Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
+- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector) (Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
 
-- [JANE](http://jane.biosemantics.org/) 
-(*Biomedicine only*, paste in your abstract and search)
+- [JANE](http://jane.biosemantics.org/) (*Biomedicine only*, paste in your abstract and search)
 
-- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  
-(More info when logged in)
+- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  (More info when logged in)
 
 
 ### Publisher specific:
@@ -73,44 +69,44 @@ https://www.journalguide.com/  (paste in the abstract and search)
 > - Note that database indexing often is indicated on the journal webpages, [see example at T&F](https://www.tandfonline.com/action/journalInformation?journalCode=cdss20).
 
 
-General databases:
+### General databases:
 
-Web of Science Master Journals List  (mer info om man är inloggad)
+[Web of Science Master Journals List](https://mjl.clarivate.com/home) (More info if logged in)
 
-Scopus Sources
+[Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
 
-Journal Guide  (not exhaustive, search for a journal and look at indices in the right hand menu)
+[Journal Guide](https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
 
 
-Subject specific:
+### Subject specific:
 
-Analytical Abstracts
+[Analytical Abstracts](http://pubs.rsc.org/lus/analytical-abstracts/about#source-list)
 
-Art & Architecture Complete
+[Art & Architecture Complete](https://www.ebscohost.com/titleLists/vth-coverage.htm)
 
-Chemical Abstracts/SciFinder
+[Chemical Abstracts/SciFinder](https://cassi.cas.org/search.jsp)
 
-EconLit
+[EconLit] ???
 
-Ei Compendex (find excel-sheet on page)
+[Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) (find excel-sheet on page)
 
-GEOBASE (find excel-sheet on page)
+[GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) (find excel-sheet on page)
 
-GeoRef
+[GeoRef] ???
 
-Inspec
+[Inspec](https://www.theiet.org/publishing/inspec/inspec-content-coverage)
 
-Library, Information Science & Technology Abstracts
+[Library, Information Science & Technology Abstracts](https://www.ebscohost.com/titleLists/lih-coverage.htm)
 
-Materials Science & Engineering Database
+[Materials Science & Engineering Database](http://tls.search.proquest.com/titlelist/jsp/list/tlsSingle.jsp?productId=10000250&_ga=2.38453600.2129395531.1599734075-1514362537.1599734075)
 
-MathSciNet (click on the journals tab)
+[MathSciNet](https://mathscinet.ams.org/) (click on the journals tab)
 
-Philosopher’s Index -
+[Philosopher’s Index] ???
 
-Sociological Abstracts -
+[Sociological Abstracts] ???
 
-zbMATH
+[zbMATH](https://zbmath.org/serials/)
 
 
 
