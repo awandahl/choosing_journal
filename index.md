@@ -1,5 +1,7 @@
 
 
+This is the [page](https://awandahl.github.io/choosing_journal/]
+
 
 ## Why should I do this?
 
