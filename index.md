@@ -130,7 +130,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 - Based on citation data from Scopus
 
 [Journal Citations Reports](https://jcr.clarivate.com/) 
-- Indicator: Journal Impact Factor (JIF)
+- Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor)
 - Based on citation data from Web of Science
 
 [Scopus Sources](https://www.scopus.com/sources)
