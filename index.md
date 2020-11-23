@@ -114,10 +114,10 @@ _____
 _____
 ## 3. Check journal ranking in your subject
 
-### *The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.*
+### *The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.*  
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
-> - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.
+> - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
 
 [CWTS Journal Indicators](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
