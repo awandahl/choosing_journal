@@ -10,12 +10,12 @@ This is the [page you are looking at](https://awandahl.github.io/choosing_journa
 - Find alternative journals to submit to in the unlikely event that I'm rejected
 - Find alternative journals that I didn't know of before - just as an orientation
 - Check time from submission to first decision and published article
-- Avoid to submit to a shady publisher
+- Avoid to submit to a shady publisher  
 
 
 I will eventually arrive to a well motivated decision of a journal where to send my manuscript and I can say something like...
 
-*"I have choosen to submit to the "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*
+*"I have choosen to submit to the "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
 
 
@@ -57,7 +57,7 @@ http://www.sjfinder.com/journals/recommend  (klistra in abstract och sök)
 
 http://www.sjfinder.com/journals/home
 
-https://www.journalguide.com/  (paste in the abstract and search)
+https://www.journalguide.com/  (paste in the abstract and search)  
 
 
 _____
@@ -107,7 +107,7 @@ _____
 
 [Sociological Abstracts] ???
 
-[zbMATH](https://zbmath.org/serials/)
+[zbMATH](https://zbmath.org/serials/)  
 
 
 
@@ -138,7 +138,7 @@ _____
 
 ["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)
 - Indicators: 2, 1 or -  
-- Based on expert panels
+- Based on expert panels  
 
 _____
 ## 4. Check the Open Access options
@@ -149,7 +149,7 @@ _____
 
 [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
 
-[New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)
+[New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)  
 
 _____
 ## 5. Check the funders' and journals' Research Data requirements
@@ -192,7 +192,7 @@ Springer Nature Data Policies FAQ    Springer Nature Journals' data policy
 
 Taylor & Francis: Data sharing policies    Taylor & Francis: Data availability statements
 
-Wiley: Sharing and Citing your Research Data
+Wiley: Sharing and Citing your Research Data  
 
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
@@ -229,7 +229,7 @@ Supervisorn känner folk på redaktionen?
 Möjlighet att föreslå välvilliga peer-reviewers?
 
 
-Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro
+Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro  
 
 _____
 ## Welcome to GitHub Pages
