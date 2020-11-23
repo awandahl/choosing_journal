@@ -148,16 +148,18 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 [Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
 
-KTH policy for publishing
+[KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
 
-Quality Open Access Market ????
+[New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)
 
 
 ## 5. Check the funders' and journals' Research Data requirements
 
-Sherpa RoMEO
+[Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
-Sherpa Juliet
+[Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
+
+
 
 
 https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/
