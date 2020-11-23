@@ -120,15 +120,26 @@ https://www.journalguide.com/  (paste in the abstract and search)
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.
 
-[CWTS Journal Indicators](https://www.journalindicators.com/) (Indicator = [SNIP](https://www.journalindicators.com/methodology). Based on citation data from Scopus. To be noted CWTS Leiden Ranking is based on Web of Science data)
+[CWTS Journal Indicators](https://www.journalindicators.com/) 
+- Indicator = [SNIP](https://www.journalindicators.com/methodology)
+- Based on citation data from Scopus
+- To be noted CWTS Leiden Ranking is based on Web of Science data)
 
-[Scimago Journal & Country Rank](https://www.scimagojr.com/) (Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank). Based on citation data from Scopus)
+[Scimago Journal & Country Rank](https://www.scimagojr.com/)
+- Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) 
+- Based on citation data from Scopus
 
-[Journal Citations Reports](https://jcr.clarivate.com/) (Indicator: Journal Impact Factor (JIF) - based on citation data from Web of Science)
+[Journal Citations Reports](https://jcr.clarivate.com/) 
+- Indicator: Journal Impact Factor (JIF)
+- Based on citation data from Web of Science
 
-[Scopus Sources](https://www.scopus.com/sources) (Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology). Based on citation data from Scopus)
+[Scopus Sources](https://www.scopus.com/sources)
+- Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
+- Based on citation data from Scopus
 
-["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en) (Indicators: 2, 1 or - . Based on expert panels)
+["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)
+- Indicators: 2, 1 or -  
+- Based on expert panels
 
 
 ## 4. Check the Open Access options
