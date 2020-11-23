@@ -19,7 +19,7 @@ I will eventually arrive to a well motivated decision of a journal where to send
 
 
 
-
+_____
 ## 1. Find a candidate based on topic/subject, article type and study type:
 
 ### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
@@ -60,8 +60,7 @@ http://www.sjfinder.com/journals/home
 https://www.journalguide.com/  (paste in the abstract and search)
 
 
-
-
+_____
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
 
 ### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.*
@@ -112,7 +111,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 
 
-
+_____
 ## 3. Check journal ranking in your subject
 
 ### *The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.*
@@ -141,7 +140,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 - Indicators: 2, 1 or -  
 - Based on expert panels
 
-
+_____
 ## 4. Check the Open Access options
 
 [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
@@ -152,7 +151,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 [New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)
 
-
+_____
 ## 5. Check the funders' and journals' Research Data requirements
 
 [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
@@ -195,7 +194,7 @@ Taylor & Francis: Data sharing policies    Taylor & Francis: Data availability s
 
 Wiley: Sharing and Citing your Research Data
 
-
+_____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
 
 https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1
@@ -214,7 +213,7 @@ https://www.journalguide.com/
 
 https://www.elsevier.com/authors/author-resources/research-data
 
-
+_____
 ## 7. Assess other stakeholders' views and requirements on your candidate: supervisor, KTH, funders
 
 KTH policy for publishing
@@ -232,7 +231,7 @@ Möjlighet att föreslå välvilliga peer-reviewers?
 
 Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro
 
-
+_____
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/awandahl/choosing_journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
