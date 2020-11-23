@@ -1,6 +1,6 @@
 
 
-This is the [page](https://awandahl.github.io/choosing_journal/]
+This is the [page you are looking at](https://awandahl.github.io/choosing_journal/)
 
 
 ## Why should I do this?
@@ -118,7 +118,7 @@ https://www.journalguide.com/  (paste in the abstract and search)
 ### *The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.*
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
-> - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and CiteScore **are not**.
+> - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.
 
 [CWTS Journal Indicators](https://www.journalindicators.com/) (Indicator = [SNIP](https://www.journalindicators.com/methodology). Based on citation data from Scopus. To be noted CWTS Leiden Ranking is based on Web of Science data)
 
@@ -126,16 +126,16 @@ https://www.journalguide.com/  (paste in the abstract and search)
 
 [Journal Citations Reports](https://jcr.clarivate.com/) (Indicator: Journal Impact Factor (JIF) - based on citation data from Web of Science)
 
-[Scopus Sources](https://www.scopus.com/sources) (Indicators = CiteScore, [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology). Based on citation data from Scopus)
+[Scopus Sources](https://www.scopus.com/sources) (Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology). Based on citation data from Scopus)
 
-["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside) (Indicators: 2, 1, 0. Based on expert panels)
+["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en) (Indicators: 2, 1 or - . Based on expert panels)
 
 
 ## 4. Check the Open Access options
 
-Sherpa RoMEO
+[Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
-Publish Open Access - we cover your costs  (KTH Library)
+[Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
 
 KTH policy for publishing
 
