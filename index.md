@@ -180,7 +180,7 @@ Publishers
 
 [PLOS ONE Data availability](https://journals.plos.org/plosone/s/data-availability)
 
-[PNAS: Materials and Data Availability](https://www.pnas.org/authors/editorial-and-journal-policies#xi]
+[PNAS: Materials and Data Availability](https://www.pnas.org/authors/editorial-and-journal-policies#xi)
 
 [Sage: Research Data Sharing Policies](https://uk.sagepub.com/en-gb/eur/research-data-sharing-policies)
 
@@ -195,7 +195,9 @@ Publishers
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
 
-https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1
+[Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs(https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
+
+[SciRev](https://scirev.org/) Researchers sharing their experiences
 
 Läs instructions for authors
 
