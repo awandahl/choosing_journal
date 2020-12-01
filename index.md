@@ -13,7 +13,7 @@ This is the [page you are looking at](https://awandahl.github.io/choosing_journa
 
 I will eventually arrive to a well motivated decision of a journal where to send my manuscript and I can say something like...
 
-*"I have choosen to submit to the "International Journal of Fracture" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
+*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
 
 
@@ -22,6 +22,7 @@ _____
 
 ### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
 
+###*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors* 
 
 
 
@@ -195,21 +196,17 @@ Publishers
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
 
+###*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors*    
+
 [Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs(https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
 
-[SciRev](https://scirev.org/) Researchers sharing their experiences
+[SciRev](https://scirev.org/) Researchers sharing their experiences - non-profit 
 
-Läs instructions for authors
+[JournalGuide](https://www.journalguide.com/)
 
-About peer-review
+[Elsevier Journal Insights](https://journalinsights.elsevier.com/)
 
-Proposing peer-reviewers
-
-https://journalinsights.elsevier.com/
-
-https://www.springer.com/journal/199 (Läs om impact och Turn-around-time på tidskriftens sida)
-
-https://www.journalguide.com/
+[Springer](https://www.springer.com/journal/199) (Läs om impact och Turn-around-time på tidskriftens sida)
 
 https://www.elsevier.com/authors/author-resources/research-data
 
@@ -231,41 +228,4 @@ Möjlighet att föreslå välvilliga peer-reviewers?
 
 Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro  
 
-_____
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/awandahl/choosing_journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awandahl/choosing_journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
