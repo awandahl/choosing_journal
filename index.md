@@ -58,15 +58,6 @@ _____
 - [Wiley](https://journalfinder.wiley.com/search?type=match)
 
 
-Bad or dead:
-
-http://www.sjfinder.com/journals/recommend  (klistra in abstract och sök)
-
-http://www.sjfinder.com/journals/home
-
-https://www.journalguide.com/  (paste in the abstract and search)  
-
-
 _____
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
 
