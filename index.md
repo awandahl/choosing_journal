@@ -149,20 +149,20 @@ _____
 _____
 ## 4. Check the Open Access options
 
-[Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
+- [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
-[Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
+- [Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
 
-[KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
+- [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
 
-[New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)  
+- [New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)  
 
 _____
 ## 5. Check the funders' and journals' Research Data requirements
 
-[Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
+- [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
-[Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
+- [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
 
 
 
@@ -174,48 +174,49 @@ Radboud University: Research Data Management - Journal Requirements  (please che
 Gary King: Data Sharing and Replication  verkar övergiven och inaktuell??
 Publishers
 
-[American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
+- [American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
 
-[American Geophysical Union's Data Policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Data-policy)
+- [American Geophysical Union's Data Policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Data-policy)
 
-[American Institute of Physics Research Data Policy](https://publishing.aip.org/resources/researchers/open-science/research-data-policy/)
+- [American Institute of Physics Research Data Policy](https://publishing.aip.org/resources/researchers/open-science/research-data-policy/)
 
-[Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)
+- [Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)
 
-[Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)    
+- [Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)    
 ```Go to 2.4.2 Availability of Data```
 
-[Nature: Availability of data](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-data)
+- [Nature: Availability of data](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-data)
 
-[PLOS ONE Data availability](https://journals.plos.org/plosone/s/data-availability)
+- [PLOS ONE Data availability](https://journals.plos.org/plosone/s/data-availability)
 
-[PNAS: Materials and Data Availability](https://www.pnas.org/authors/editorial-and-journal-policies#xi)
+- [PNAS: Materials and Data Availability](https://www.pnas.org/authors/editorial-and-journal-policies#xi)
 
-[Sage: Research Data Sharing Policies](https://uk.sagepub.com/en-gb/eur/research-data-sharing-policies)
+- [Sage: Research Data Sharing Policies](https://uk.sagepub.com/en-gb/eur/research-data-sharing-policies)
 
-[Science: Data and Code Deposition](https://www.sciencemag.org/authors/science-journals-editorial-policies#data-and-code-deposition)
+- [Science: Data and Code Deposition](https://www.sciencemag.org/authors/science-journals-editorial-policies#data-and-code-deposition)
 
-[Springer Nature Data Policies FAQ](https://www.springernature.com/gp/authors/research-data-policy/faqs/12327154)    [Springer Nature Journals' data policy](https://www.springernature.com/gp/authors/research-data-policy/springer-nature-journals-data-policy-type/12327134)
+- [Springer Nature Data Policies FAQ](https://www.springernature.com/gp/authors/research-data-policy/faqs/12327154)    [Springer Nature Journals' data policy](https://www.springernature.com/gp/authors/research-data-policy/springer-nature-journals-data-policy-type/12327134)
 
-[Taylor & Francis: Data sharing policies](https://authorservices.taylorandfrancis.com/data-sharing-policies/#datapolicies)    [Taylor & Francis: Data availability statements](https://authorservices.taylorandfrancis.com/data-sharing-policies/data-availability-statements/)
+- [Taylor & Francis: Data sharing policies](https://authorservices.taylorandfrancis.com/data-sharing-policies/#datapolicies)    [Taylor & Francis: Data availability statements](https://authorservices.taylorandfrancis.com/data-sharing-policies/data-availability-statements/)
 
-[Wiley: Sharing and Citing your Research Data](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/index.html)  
+- [Wiley: Sharing and Citing your Research Data](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/index.html)  
 
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
 
 ###*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors*    
 
-[Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs(https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
+- [Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
+´´´A very good read about the topic```
 
-[SciRev](https://scirev.org/)   
+- [SciRev](https://scirev.org/)   
 ```Researchers sharing their experiences - non-profit´´´ 
 
-[JournalGuide](https://www.journalguide.com/)
+- [JournalGuide](https://www.journalguide.com/)
 
-[Elsevier Journal Insights](https://journalinsights.elsevier.com/)
+- [Elsevier Journal Insights](https://journalinsights.elsevier.com/)
 
-[Springer](https://www.springer.com/journal/199)    
+- [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
 
 https://www.elsevier.com/authors/author-resources/research-data
@@ -223,17 +224,17 @@ https://www.elsevier.com/authors/author-resources/research-data
 _____
 ## 7. Assess other stakeholders' views and requirements on your candidate: supervisor, KTH, funders
 
-KTH policy for publishing
+- KTH policy for publishing
 
-Öppna data? Policy på KTH? Tidskriften? Finansiär?
+- Öppna data? Policy på KTH? Tidskriften? Finansiär?
 
-OA?
+- OA?
 
-Publiceringstradition på institutionen?
+- Publiceringstradition på institutionen?
 
-Supervisorn känner folk på redaktionen?
+- Supervisorn känner folk på redaktionen?
 
-Möjlighet att föreslå välvilliga peer-reviewers?
+- Möjlighet att föreslå välvilliga peer-reviewers?
 
 
 Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro  
