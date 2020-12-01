@@ -1,4 +1,4 @@
-This is the [page you are looking at](https://awandahl.github.io/choosing_journal/)
+This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
 
 ## Why should I do this?
@@ -75,11 +75,13 @@ _____
 
 ### General databases:
 
-[Web of Science Master Journals List](https://mjl.clarivate.com/home) (journal's "profile page" visible after login)
+- [Web of Science Master Journals List](https://mjl.clarivate.com/home)    
+```Journal's "profile pages" are visible after login```
 
-[Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
+- [Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
 
-[Journal Guide](https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
+- [Journal Guide](https://www.journalguide.com/)    
+```Not exhaustive, search for a journal and look at indices in the right hand menu```
 
 
 ### Subject specific:
@@ -104,7 +106,8 @@ _____
 
 [Materials Science & Engineering Database](http://tls.search.proquest.com/titlelist/jsp/list/tlsSingle.jsp?productId=10000250&_ga=2.38453600.2129395531.1599734075-1514362537.1599734075)
 
-[MathSciNet](https://mathscinet.ams.org/) (click on the journals tab)
+[MathSciNet](https://mathscinet.ams.org/)   
+```Click on the journals tab```
 
 [Philosopher’s Index] ???
 
@@ -179,7 +182,8 @@ Publishers
 
 [Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)
 
-[Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)  (Go to 2.4.2 Availability of Data)
+[Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)    
+```Go to 2.4.2 Availability of Data```
 
 [Nature: Availability of data](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-data)
 
@@ -204,13 +208,15 @@ _____
 
 [Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs(https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
 
-[SciRev](https://scirev.org/) Researchers sharing their experiences - non-profit 
+[SciRev](https://scirev.org/)   
+```Researchers sharing their experiences - non-profit´´´ 
 
 [JournalGuide](https://www.journalguide.com/)
 
 [Elsevier Journal Insights](https://journalinsights.elsevier.com/)
 
-[Springer](https://www.springer.com/journal/199) (Läs om impact och Turn-around-time på tidskriftens sida)
+[Springer](https://www.springer.com/journal/199)    
+```Read about impact factors and turn-around time on the journals' webpages```
 
 https://www.elsevier.com/authors/author-resources/research-data
 
