@@ -29,7 +29,8 @@ _____
 ### General non publisher-specific databases:
 
 - [Dimensions.ai](https://www.dimensions.ai/)     
-```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```
+```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```     
+<img src="https://publicdomainvectors.org/photos/video-player.png" align="left" width="20">Video about to [use Dimensions](https://youtu.be/tQRB8Ul0V34).
 
 - [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
 ```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```
@@ -206,7 +207,7 @@ _____
 
 ### <span style="color:red">*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors*    
 
-- [Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
+- [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
 ```A very good read about the topic```
 
 - [SciRev](https://scirev.org/)   
