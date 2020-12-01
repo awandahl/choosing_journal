@@ -41,7 +41,7 @@ _____
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use JANE](https://youtu.be/xxxxxxxx)
 
 - [Web of Science Master Journals List Manuscript Matcher](https://mjl.clarivate.com/home)       
-```More info when logged in```    
+```Login required (free). Click on the "Match Manuscript" tab.```    
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List Manuscript Matcher](https://youtu.be/xxxxxxxx)
 
 
