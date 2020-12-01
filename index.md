@@ -210,7 +210,7 @@ _____
 ´´´A very good read about the topic```
 
 - [SciRev](https://scirev.org/)   
-```Researchers sharing their experiences - non-profit´´´ 
+```Researchers sharing their experiences - non-profit```
 
 - [JournalGuide](https://www.journalguide.com/)
 
