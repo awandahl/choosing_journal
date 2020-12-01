@@ -22,7 +22,7 @@ _____
 
 ### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
 
-###*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors* 
+### *Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors* 
 
 
 
