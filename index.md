@@ -72,11 +72,11 @@ _____
 
 ### General databases:
 
-[Web of Science Master Journals List] (https://mjl.clarivate.com/home) (journal's "profile page" visible after login)
+[Web of Science Master Journals List](https://mjl.clarivate.com/home) (journal's "profile page" visible after login)
 
-[Scopus Sources] (https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
+[Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
 
-[Journal Guide] (https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
+[Journal Guide](https://www.journalguide.com/) (Not exhaustive, search for a journal and look at indices in the right hand menu)
 
 
 ### Subject specific:
@@ -168,31 +168,31 @@ Radboud University: Research Data Management - Journal Requirements  (please che
 Gary King: Data Sharing and Replication  verkar övergiven och inaktuell??
 Publishers
 
-American Chemical Society Research Data Center
+[American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
 
-American Geophysical Union's Data Policy
+[American Geophysical Union's Data Policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Data-policy)
 
-American Institute of Physics Research Data Policy
+[American Institute of Physics Research Data Policy](https://publishing.aip.org/resources/researchers/open-science/research-data-policy/)
 
-Elsevier: Research Data
+[Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)
 
-Frontiers: Policies and Publication Ethics  (Go to 2.4.2 Availability of Data)
+[Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)  (Go to 2.4.2 Availability of Data)
 
-Nature: Availability of data
+[Nature: Availability of data](https://www.nature.com/nature-research/editorial-policies/reporting-standards#availability-of-data)
 
-PLOS ONE Data availability
+[PLOS ONE Data availability](https://journals.plos.org/plosone/s/data-availability)
 
-PNAS: Materials and Data Availability
+[PNAS: Materials and Data Availability](https://www.pnas.org/authors/editorial-and-journal-policies#xi]
 
-Sage: Research Data Sharing Policies
+[Sage: Research Data Sharing Policies](https://uk.sagepub.com/en-gb/eur/research-data-sharing-policies)
 
-Science: Data and Code Deposition
+[Science: Data and Code Deposition](https://www.sciencemag.org/authors/science-journals-editorial-policies#data-and-code-deposition)
 
-Springer Nature Data Policies FAQ    Springer Nature Journals' data policy
+[Springer Nature Data Policies FAQ](https://www.springernature.com/gp/authors/research-data-policy/faqs/12327154)    [Springer Nature Journals' data policy](https://www.springernature.com/gp/authors/research-data-policy/springer-nature-journals-data-policy-type/12327134)
 
-Taylor & Francis: Data sharing policies    Taylor & Francis: Data availability statements
+[Taylor & Francis: Data sharing policies](https://authorservices.taylorandfrancis.com/data-sharing-policies/#datapolicies)    [Taylor & Francis: Data availability statements](https://authorservices.taylorandfrancis.com/data-sharing-policies/data-availability-statements/)
 
-Wiley: Sharing and Citing your Research Data  
+[Wiley: Sharing and Citing your Research Data](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/index.html)  
 
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
