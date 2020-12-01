@@ -180,7 +180,7 @@ Publishers
 
 - [American Institute of Physics Research Data Policy](https://publishing.aip.org/resources/researchers/open-science/research-data-policy/)
 
-- [Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)
+- [Elsevier: Research Data](https://www.elsevier.com/open-science/research-data)  [Elsevier: Sharing Research Data](https://www.elsevier.com/authors/tools-and-resources/research-data)
 
 - [Frontiers: Policies and Publication Ethics](https://www.frontiersin.org/about/policies-and-publication-ethics)    
 ```Go to 2.4.2 Availability of Data```
