@@ -30,16 +30,19 @@ _____
 
 - [Dimensions.ai](https://www.dimensions.ai/)     
 ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```             
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;Video about how to [use Dimensions](https://youtu.be/xxxxxxxx).     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/xxxxxxxx)    
 
 - [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
-```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```
+```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/xxxxxxxx)
 
 - [JANE](http://jane.biosemantics.org/)      
-```Biomedicine only, paste in your abstract and search```
+```Biomedicine only, paste in your abstract and search```     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/xxxxxxxx)
 
-- [Web of Science Master Journals List](https://mjl.clarivate.com/home)      
-```More info when logged in```
+- [Web of Science Master Journals List](https://mjl.clarivate.com/home)       
+```More info when logged in```    
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/xxxxxxxx)
 
 
 ### Publisher specific:
@@ -77,12 +80,15 @@ _____
 ### General databases:
 
 - [Web of Science Master Journals List](https://mjl.clarivate.com/home)    
-```Journal's "profile pages" are visible after login```
+```Journal's "profile pages" are visible after login```     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/xxxxxxxx)
 
-- [Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)
+- [Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scopus Sources](https://youtu.be/xxxxxxxx)
 
 - [Journal Guide](https://www.journalguide.com/)    
-```Not exhaustive, search for a journal and look at indices in the right hand menu```
+```Not exhaustive, search for a journal and look at indices in the right hand menu```     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Guide](https://youtu.be/xxxxxxxx)
 
 
 ### Subject specific:
@@ -129,23 +135,28 @@ _____
 [CWTS Journal Indicators](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus
-- To be noted CWTS Leiden Ranking is based on Web of Science data)
+- To be noted CWTS Leiden Ranking is based on Web of Science data)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/xxxxxxxx)
 
 [Scimago Journal & Country Rank](https://www.scimagojr.com/)
 - Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) 
-- Based on citation data from Scopus
+- Based on citation data from Scopus     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scimago Journal & Country Rank](https://youtu.be/xxxxxxxx)
 
 [Journal Citations Reports](https://jcr.clarivate.com/) 
 - Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor)
-- Based on citation data from Web of Science
+- Based on citation data from Web of Science     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/xxxxxxxx)
 
 [Scopus Sources](https://www.scopus.com/sources)
 - Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
-- Based on citation data from Scopus
+- Based on citation data from Scopus     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scopus Sources](https://youtu.be/xxxxxxxx)
 
 ["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)
 - Indicators: 2, 1 or -  
-- Based on expert panels  
+- Based on expert panels     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use "Norwegian list"](https://youtu.be/xxxxxxxx)
 
 _____
 ## 4. Check the Open Access options
