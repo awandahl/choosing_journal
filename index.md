@@ -28,13 +28,13 @@ _____
 
 ### General non publisher-specific databases:
 
-- [Dimensions.ai](https://www.dimensions.ai/) (First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".
+- [Dimensions.ai](https://www.dimensions.ai/) ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```
 
-- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector) (Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)
+- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector) ```(Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field)```
 
-- [JANE](http://jane.biosemantics.org/) (*Biomedicine only*, paste in your abstract and search)
+- [JANE](http://jane.biosemantics.org/) ```(*Biomedicine only*, paste in your abstract and search)```
 
-- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  (More info when logged in)
+- [Web of Science Master Journals List](https://mjl.clarivate.com/home)  ```(More info when logged in)```
 
 
 ### Publisher specific:
