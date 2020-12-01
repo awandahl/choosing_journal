@@ -207,7 +207,7 @@ _____
 ### <span style="color:red">*Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors - Read Instructions for Authors*    
 
 - [Scholarly Kitchen: Guest Post - Author-Friendly Journal Websites by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)
-´´´A very good read about the topic```
+```A very good read about the topic```
 
 - [SciRev](https://scirev.org/)   
 ```Researchers sharing their experiences - non-profit```
