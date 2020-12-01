@@ -219,8 +219,6 @@ _____
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
 
-https://www.elsevier.com/authors/author-resources/research-data
-
 _____
 ## 7. Assess other stakeholders' views and requirements on your candidate: supervisor, KTH, funders
 
