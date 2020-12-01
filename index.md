@@ -30,7 +30,7 @@ _____
 
 - [Dimensions.ai](https://www.dimensions.ai/)     
 ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```             
-<img src="https://publicdomainvectors.org/photos/video-player.png" align="left" width="20"> Video about how to [use Dimensions](https://youtu.be/xxxxxxxx).     
+<img src="https://tinyurl.com/yxm8wuq2" align="left" width="20"> Video about how to [use Dimensions](https://youtu.be/xxxxxxxx).     
 
 - [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
 ```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```
