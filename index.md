@@ -207,7 +207,8 @@ Publishers
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
 
-### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*   
+### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*      
+  
 
 - [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
 ```A very good read about the topic```
