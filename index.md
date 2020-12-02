@@ -158,7 +158,7 @@ _____
 
 - [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
 
-- [New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/Turnkey/AngularApp#/PublicJournalSeeker/111!2261546)  
+- [New KTH searchtool for finding journals with an OA-option](https://app.scifree.se/kth)  
 
 _____
 ## 5. Check the funders' and journals' Research Data requirements
