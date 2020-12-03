@@ -47,8 +47,8 @@ _____
 
 ### Publisher specific:
 
-- [Elsevier Find Journals](https://journalfinder.elsevier.com/)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Elsevier Find Journals](https://youtu.be/m0Mf4nUuALo)
+- [Elsevier JournalFinder](https://journalfinder.elsevier.com/)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Elsevier JournalFinder](https://youtu.be/Spa4ql0ZpZA)
 
 - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use IEEE Publication Recommender](https://youtu.be/m0Mf4nUuALo)
