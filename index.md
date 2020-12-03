@@ -47,7 +47,7 @@ _____
 
 ### Publisher specific:
 
-- [Elsevier](https://journalfinder.elsevier.com/)
+- [Elsevier](https://journalfinder.elsevier.com/) (Very good interface where time-to-first-decision and impact factor can be filtered)
 
 - [IEEE](https://publication-recommender.ieee.org/home)
 
