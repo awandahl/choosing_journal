@@ -168,7 +168,7 @@ _____
 _____
 ## 5. Check the funders' and journals' Research Data requirements
 
-### *The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818). *  
+### *The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called * [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818).  
 
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
