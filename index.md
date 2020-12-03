@@ -167,6 +167,8 @@ _____
 
 - [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
 
+- [Shar and publish your data - KTHB](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)
+
 
 
 
