@@ -96,13 +96,13 @@ _____
 
 [Chemical Abstracts/SciFinder](https://cassi.cas.org/search.jsp)
 
-[EconLit] ???
+[EconLit](https://www.aeaweb.org/econlit/journal_list.php)
 
 [Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) (find excel-sheet on page)
 
 [GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) (find excel-sheet on page)
 
-[GeoRef] ???
+[GeoRef](https://www.americangeosciences.org/information/georef/serials)
 
 [Inspec](https://www.theiet.org/publishing/inspec/inspec-content-coverage)
 
@@ -112,10 +112,6 @@ _____
 
 [MathSciNet](https://mathscinet.ams.org/)   
 ```Click on the journals tab```
-
-[Philosopher’s Index] ???
-
-[Sociological Abstracts] ???
 
 [zbMATH](https://zbmath.org/serials/)  
 
