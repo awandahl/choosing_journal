@@ -53,7 +53,7 @@ _____
 
 - [Springer Nature](https://journalsuggester.springer.com/)
 
-- [Taylor & Francis](https://authorservices.taylorandfrancis.com/how-to-choose-a-journal/)
+- [Taylor & Francis](https://authstaging.wpengine.com/publishing-your-research/choosing-a-journal/journal-suggester/)
 
 - [Wiley](https://journalfinder.wiley.com/search?type=match)
 
