@@ -2,19 +2,19 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 
 ## This is a support page for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/evenemang/doktorandworkshop-valja-tidskrift-1.1010706) held or to be held at KTH 2020-12-10. Contact person: [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se
 
-## Why should I do this?
+## Why should you do this?
 
-- Find the best possible journal for exactly my topic/subject and my audience
-- Find, compare and evaluate several journals in my field
-- Find alternative journals to submit to in the unlikely event that I'm rejected
-- Find alternative journals that I didn't know of before - just as an orientation
-- Check time from submission to first decision and published article
+- Find the best possible journal for exactly your topic/subject and your audience
+- Find, compare and evaluate several journals in your field
+- Find alternative journals to submit to (in the unlikely event that you are rejected)
+- Find alternative journals that you didn't know of before - just as an orientation
+- Check time from submission to first decision and the published article, as well as the acceptance rate
 - Avoid to submit to a shady publisher  
 
 
-I will eventually arrive to a well motivated decision of a journal where to send my manuscript and I can say something like...
+You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
-*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
+*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
 
 
