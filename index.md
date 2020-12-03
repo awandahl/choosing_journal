@@ -20,7 +20,7 @@ I will eventually arrive to a well motivated decision of a journal where to send
 _____
 ## 1. Find a candidate based on topic/subject, article type and study type:
 
-### *The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.*
+### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
 ### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*
 
@@ -66,7 +66,7 @@ _____
 _____
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
 
-### *The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.*
+### The aim is to check that my journal is covered in as many databases as possible. The reason for this is that you really want to findable and visible by your colleagues. If you know that your colleagues use a specific database when they look for information in your topic, then make sure that your upcoming article will be included in that source. The information about the specific databases that cover a specific journal is called "database indexing" in librarian lingo.
 
 
 > - Remember that Google Scholar isn't a major bibliographic database even though it's a very common tool for information searching! 
@@ -123,7 +123,7 @@ _____
 _____
 ## 3. Check journal ranking in your subject
 
-### *The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.*  
+### The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.  
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
@@ -157,6 +157,8 @@ _____
 _____
 ## 4. Check the Open Access options
 
+### The aim is to check wether the journal you have in mind has any option for Open Access publishing (OA). To publish OA has become the norm and most research funders require that your research results is in the open, for everyone to read.  
+
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
 - [Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
@@ -168,7 +170,7 @@ _____
 _____
 ## 5. Check the funders' and journals' Research Data requirements
 
-### *The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called * [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818).  
+### The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818).  
 
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
@@ -214,11 +216,12 @@ Publishers
 - [Wiley: Sharing and Citing your Research Data](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/index.html)  
 
 _____
-## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review, Research Data requirements
+## 6. Check Acceptance Rate, Turn-Around-Time, and Peer Review
+
+### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another numer that is of interest is the likeliness that your are accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
 ### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*      
   
-
 - [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
 ```A very good read about the topic```
 
@@ -233,7 +236,7 @@ _____
 ```Read about impact factors and turn-around time on the journals' webpages```
 
 _____
-## 7. Assess other stakeholders' views and requirements on your candidate: supervisor, KTH, funders
+## 7. Other aspects on your choice of journal
 
 - KTH policy for publishing
 
