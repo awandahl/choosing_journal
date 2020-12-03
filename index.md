@@ -30,11 +30,11 @@ _____
 
 - [Dimensions.ai](https://www.dimensions.ai/)     
 ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```             
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/m0Mf4nUuALo )    
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/m0Mf4nUuALo)    
 
 - [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
 ```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use EdanzJournal Selector](https://youtu.be/SFM0gSPv1uA )
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use EdanzJournal Selector](https://youtu.be/SFM0gSPv1uA)
 
 - [JANE](http://jane.biosemantics.org/)      
 ```Biomedicine only, paste in your abstract and search```     
@@ -47,15 +47,20 @@ _____
 
 ### Publisher specific:
 
-- [Elsevier](https://journalfinder.elsevier.com/) (Very good interface where time-to-first-decision and impact factor can be filtered)
+- [Elsevier](https://journalfinder.elsevier.com/) (Very good interface where time-to-first-decision and impact factor can be filtered)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Likes & don't likes](https) 
 
-- [IEEE](https://publication-recommender.ieee.org/home)
+- [IEEE](https://publication-recommender.ieee.org/home)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Likes & don't likes](https)  
 
-- [Springer Nature](https://journalsuggester.springer.com/)
+- [Springer Nature](https://journalsuggester.springer.com/)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Likes & don't likes](https) 
 
 - [Taylor & Francis](https://authstaging.wpengine.com/publishing-your-research/choosing-a-journal/journal-suggester/)
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Likes & don't likes](https) 
 
-- [Wiley](https://journalfinder.wiley.com/search?type=match)
+- [Wiley](https://journalfinder.wiley.com/search?type=match)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Likes & don't likes](https) 
 
 
 _____
