@@ -233,12 +233,15 @@ _____
 
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
------
-## 7. 
+
+
+_____
+## 7. Publication ethics
 
 "If I have several results on one topic, should I put all the results and submit it to a high impact journal, or separate them into several papers and submit it to standard impact journals? Which one is better for both academic impact and future career development?"
 
-
+- [Miguel Roig: Avoiding Plagiarism, Self-plagiarism, and Other Questionable Writing Practices: A Guide to Ethical Writing](https://ori.hhs.gov/avoiding-plagiarism-self-plagiarism-and-other-questionable-writing-practices-guide-ethical-writing)
+- [Nature Materials 2005: The cost of salami slicing](https://www.nature.com/articles/nmat1305)
 
 _____
 ## 8. Other aspects on your choice of journal
