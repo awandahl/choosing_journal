@@ -180,12 +180,7 @@ _____
 
 
 
-https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/
-
-Radboud University: Research Data Management - Journal Requirements  (please check the link to an Excel Workbook on the page)
-
-Gary King: Data Sharing and Replication  verkar övergiven och inaktuell??
-Publishers
+- [CHORUS: Publisher Data Availability Policies Index](https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/)
 
 - [American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
 
