@@ -139,9 +139,9 @@ _____
 
 [Journal Citations Reports](https://jcr.clarivate.com/)    
 - Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor)     
-- <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about the Journal Impact Factor from Clarivate (the provider of Web of Science)](https://www.youtube.com/watch?v=ulidYM0ap_A&feature=youtu.be)     
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about the Journal Impact Factor from Clarivate (the provider of Web of Science)](https://www.youtube.com/watch?v=ulidYM0ap_A&feature=youtu.be)     
 - Based on citation data from Web of Science     
-- <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/xxxxxxxx)
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/xxxxxxxx)
 
 [Scopus Sources](https://www.scopus.com/sources)
 - Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
