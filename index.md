@@ -244,17 +244,9 @@ _____
 
 - KTH policy for publishing
 
-- Öppna data? Policy på KTH? Tidskriften? Finansiär?
+- Publishing tradition at your department
 
-- OA?
+- Your supervisor
 
-- Publiceringstradition på institutionen?
+- Possibility to suggest peer-reviewers
 
-- Supervisorn känner folk på redaktionen?
-
-- Möjlighet att föreslå välvilliga peer-reviewers?
-
-
-Hittade denna nyss, verkar vara bra:  https://latrobe.libguides.com/wherepublish/intro  
-
-https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1500282&dswid=-9515
