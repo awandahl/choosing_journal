@@ -251,3 +251,5 @@ _____
 
 - Possibility to suggest peer-reviewers
 
+[Good read from La Trobe University](https://latrobe.libguides.com/wherepublish/intro)
+
