@@ -150,7 +150,7 @@ _____
 ["Norwegian list"](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)
 - Indicators: 2, 1 or - (2 is the best)
 - Based on expert panels     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use "Norwegian list"](https://youtu.be/xxxxxxxx)
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use "Norwegian list"](https://youtu.be/vSuKlHSbs8E)
 
 _____
 ## 4. Check the Open Access options
