@@ -230,6 +230,10 @@ _____
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
 
+## Peer review
+- [Transpose](https://transpose-publishing.github.io/)    
+```A database of journal policies on peer review, co-reviewing, and preprinting```
+
 
 _____
 ## 7. Publication ethics
