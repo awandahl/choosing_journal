@@ -211,7 +211,7 @@ _____
 - [Wiley: Sharing and Citing your Research Data](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/data-sharing-citation/index.html)  
 
 _____
-## 6. Check Acceptance Rate, Turn-Around-Time, and Peer Review
+## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review and editorial policies
 
 ### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another numer that is of interest is the likeliness that your are accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
@@ -234,6 +234,9 @@ _____
 - [Transpose](https://transpose-publishing.github.io/)    
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
+## Editorial policies
+- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)    
+```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
 _____
 ## 7. Publication ethics
