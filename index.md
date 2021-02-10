@@ -1,6 +1,6 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/evenemang/doktorandworkshop-valja-tidskrift-1.1010706) held  at KTH 2020-12-10. Contact person: [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se
+## This is a support page for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/evenemang/doktorandworkshop-valja-tidskrift-1.1010706) to be held  at KTH 2021-02-19. Contact person: [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se
 
 ## Why should you do this?
 
@@ -179,8 +179,6 @@ _____
 - [Share and publish your data - KTHB](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)
 
 
-
-
 - [CHORUS: Publisher Data Availability Policies Index](https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/)
 
 - [American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
@@ -230,11 +228,11 @@ _____
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
 
-## Peer review
+### Peer review
 - [Transpose](https://transpose-publishing.github.io/)    
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
-## Editorial policies
+### Editorial policies
 - [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)    
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
