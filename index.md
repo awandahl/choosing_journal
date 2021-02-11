@@ -1,6 +1,6 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/evenemang/doktorandworkshop-valja-tidskrift-1.1010706) to be held  at KTH 2021-02-19. Contact person: [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se
+## This is a support page for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/doktorandworkshop-valja-tidskrift-1.1042835?date=2021-02-19&orgdate=2021-02-11&length=1&orglength=0) to be held  at KTH 2021-02-19. Contact person: [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se
 
 ## Why should you do this?
 
