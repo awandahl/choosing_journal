@@ -240,7 +240,7 @@ _____
 - [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
-# [<span style="color:red">Second discussion in groups - what is the take home message for YOU from the session? Questions? Suggestions?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1)
+# [<span style="color:red">Second discussion in groups - what is YOUR take home message from the workshop so far? Questions? Suggestions?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1)
 
 _____
 ## 7. Publication ethics
