@@ -215,7 +215,7 @@ _____
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review and editorial policies
 
-### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another numer that is of interest is the likeliness that your are accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
+### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another number that is of interest is the likeliness that your manuscript is accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
 ### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*   
   
