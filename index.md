@@ -12,7 +12,7 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 - Avoid to submit to a shady publisher  
 
 
-# [<span style="color:red">Initial discussion in groups - what is important for you when deciding which journal to publish in?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0)
+# [<span style="color:red">Initial discussion in groups - what is important for YOU when deciding which journal to publish in?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0)
 
 
 
@@ -37,7 +37,7 @@ _____
 ```First click on the "Access for free" button. Then click in the search field and choose "Abstract Search". Paste in your abstract and PRESS CARRIAGE RETURN - THIS IS NON-OBVIOUS. You can filter your results in the left hand menu. The journals will be visible in the right menu under the header "SOURCE TITLES".```             
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Dimensions](https://youtu.be/m0Mf4nUuALo)    
 
-- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
+- [<span style="color:red">EdanzJournal Selector</span>](https://en-author-services.edanzgroup.com/journal-selector)     
 ```Choose "Abstract/Keyword" in the left drop-down menu and paste your abstract in the search field```     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use EdanzJournal Selector](https://youtu.be/SFM0gSPv1uA)
 
@@ -240,7 +240,7 @@ _____
 - [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
-# [<span style="color:red">Second discussion in groups - what is the take home message for YOU from the session? Questions? Suggestions?](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1)
+# [<span style="color:red">Second discussion in groups - what is the take home message for YOU from the session? Questions? Suggestions?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1)
 
 _____
 ## 7. Publication ethics
