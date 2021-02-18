@@ -12,6 +12,10 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 - Avoid to submit to a shady publisher  
 
 
+# <span style="color:red">[Initial discussion in groups - what is important for you when deciding which journal to publish in?](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/edit?usp=sharing)
+
+
+
 You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
 *"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
@@ -23,7 +27,7 @@ _____
 
 ### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
-### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*
+### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*
 
 
 
@@ -228,12 +232,12 @@ _____
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
 
-### Peer review
-- [Transpose](https://transpose-publishing.github.io/)    
+### Peer review 
+- [Transpose](https://transpose-publishing.github.io/) (newly added to this page)   
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
-### Editorial policies
-- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)    
+### Editorial policies 
+- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
 _____
