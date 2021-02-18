@@ -12,7 +12,7 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 - Avoid to submit to a shady publisher  
 
 
-# [<span style="color:red">Initial discussion in groups - what is important for you when deciding which journal to publish in?](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0)
+# [<span style="color:red">Initial discussion in groups - what is important for you when deciding which journal to publish in?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0)
 
 
 
