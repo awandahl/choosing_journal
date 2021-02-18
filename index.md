@@ -12,7 +12,7 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 - Avoid to submit to a shady publisher  
 
 
-# <span style="color:red">[Initial discussion in groups - what is important for you when deciding which journal to publish in?](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/edit?usp=sharing)
+# [<span style="color:red">Initial discussion in groups - what is important for you when deciding which journal to publish in?](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/edit?usp=sharing)
 
 
 
@@ -217,7 +217,7 @@ _____
 
 ### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another numer that is of interest is the likeliness that your are accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
-### <span style="color:red">*Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors - Read About the Journal (scope) - Read Instructions for Authors*      
+### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*   
   
 - [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
 ```A very good read about the topic```
@@ -233,11 +233,11 @@ _____
 ```Read about impact factors and turn-around time on the journals' webpages```
 
 ### Peer review 
-- [Transpose](https://transpose-publishing.github.io/) (newly added to this page)   
+- [Transpose](https://transpose-publishing.github.io/) (newly added to this page - not completely evaluated)   
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
 ### Editorial policies 
-- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page)  
+- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
 _____
