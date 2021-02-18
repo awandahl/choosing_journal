@@ -180,7 +180,7 @@ _____
 
 - [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
 
-- [<span style="color:red">Share and publish your data - KTHB</span>](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)  [*Workshop on this topic coming up March 5th - Don't miss out!*](https://www.kth.se/en/biblioteket/kalender/evenemang/workshop-om-datahanteringsplaner-dmp-1.1047675?date=2021-03-05&orgdate=2021-03-01&length=1&orglength=31)
+- [<span style="color:red">Share and publish your data - KTHB</span>](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)  [*Workshop coming up March 5th - Don't miss out!*](https://www.kth.se/en/biblioteket/kalender/evenemang/workshop-om-datahanteringsplaner-dmp-1.1047675?date=2021-03-05&orgdate=2021-03-01&length=1&orglength=31)
 
 
 - [CHORUS: Publisher Data Availability Policies Index](https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/)
