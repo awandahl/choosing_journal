@@ -8,13 +8,13 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
 - Find, compare and evaluate several journals in your field
 - Find alternative journals to submit to (in the unlikely event that you are rejected)
 - Find alternative journals that you didn't know of before - just as an orientation
-- Check time from submission to first decision and the published article, as well as the acceptance rate
+- Check time from submission to first decision and publication of the article, as well as the acceptance rate
 - Avoid to submit to a shady publisher  
 
 
 You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
-*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
+*"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
 
 
