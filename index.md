@@ -80,7 +80,7 @@ _____
 
 ### General databases:
 
-- [Web of Science Master Journals List](https://mjl.clarivate.com/home)    
+- [<span style="color:red">Web of Science Master Journals List</span>](https://mjl.clarivate.com/home)    
 ```Journal's "profile pages" are visible after login```     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List](https://youtu.be/lYa_Ujg_pxA)
 
@@ -117,7 +117,7 @@ _____
 [MathSciNet](https://mathscinet.ams.org/)   
 ```Click on the journals tab```
 
-[zbMATH](https://zbmath.org/serials/)  
+[zbMATH](https://zbmath.org/serials/) NEWS FLASH - this database is Open Access as of 2021!!! Enjoy!!!
 
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[An example on how to find information about a journal in a subject specific database : mathematics](https://youtu.be/JQD790U1qjo)
 
@@ -130,7 +130,7 @@ _____
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, JIF and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
 
-[CWTS Journal Indicators](https://www.journalindicators.com/) 
+[<span style="color:red">CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus and Web of Science    
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
@@ -141,7 +141,7 @@ _____
 - Based on citation data from Web of Science     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/JsFGP2LFZ48)
 
-[Scimago Journal & Country Rank](https://www.scimagojr.com/)
+[<span style="color:red">Scimago Journal & Country Rank</span>](https://www.scimagojr.com/)
 - Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) 
 - Based on citation data from Scopus     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scimago Journal & Country Rank](https://youtu.be/4L3M06hoiCI)
@@ -163,7 +163,7 @@ _____
 
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
-- [Publish Open Access - we cover your costs](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
+- [<span style="color:red">Publish Open Access - we cover your costs</span>](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
 
 - [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
 
@@ -180,7 +180,7 @@ _____
 
 - [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
 
-- [Share and publish your data - KTHB](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)
+- [<span style="color:red">Share and publish your data - KTHB</span>](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)
 
 
 - [CHORUS: Publisher Data Availability Policies Index](https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/)
@@ -227,7 +227,7 @@ _____
 
 - [JournalGuide](https://www.journalguide.com/)
 
-- [Elsevier Journal Insights](https://journalinsights.elsevier.com/)
+- [<span style="color:red">Elsevier Journal Insights</span>](https://journalinsights.elsevier.com/)
 
 - [Springer](https://www.springer.com/journal/199)    
 ```Read about impact factors and turn-around time on the journals' webpages```
