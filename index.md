@@ -1,6 +1,6 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page and *tool box* for the [PhD Workshop: Choosing a journal](https://www.kth.se/en/biblioteket/kalender/doktorandworkshop-valja-tidskrift-1.1042835?date=2021-02-19&orgdate=2021-02-11&length=1&orglength=0) to be held  at KTH 2021-02-19.       
+## This is a support page and *tool box* for the [PhD Workshop: Choosing a journal](https://www.kth.se/biblioteket/kalender/extrainsatt-doktorandworkshop-valja-tidskrift-1.1052127?date=2021-03-19&orgdate=2021-03-12&length=1&orglength=0) to be held  at KTH 2021-03-19.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
 [Greta Quesada Richardson](https://www.kth.se/profile/gretaqr) email: gretaqr@kth.se     
 _____
@@ -15,7 +15,7 @@ _____
 - Avoid to submit to a shady publisher  
 
 
-# [<span style="color:red">Initial discussion in groups - what is important for YOU when deciding to which journal your manuscript will be submitted to?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0)
+# [<span style="color:red">Initial discussion in groups - what is important for YOU when deciding to which journal your manuscript will be submitted to?</span>](https://jamboard.google.com/d/1InsUJ9Wg50_GgGqVMPjwgFY0xAScTYY__2NStd6O8iI/edit?usp=sharing)
 
 
 
@@ -183,9 +183,6 @@ _____
 
 - [Sherpa Juliet](https://v2.sherpa.ac.uk/juliet/)
 
-- [<span style="color:red">Share and publish your data - KTHB</span>](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/dela-och-publicera-1.861137)  [*Workshop coming up March 5th - Don't miss out!*](https://www.kth.se/en/biblioteket/kalender/evenemang/workshop-om-datahanteringsplaner-dmp-1.1047675?date=2021-03-05&orgdate=2021-03-01&length=1&orglength=31)
-
-
 - [CHORUS: Publisher Data Availability Policies Index](https://www.chorusaccess.org/resources/chorus-for-publishers/publisher-data-availability-policies-index/)
 
 - [American Chemical Society Research Data Center](https://acsopenscience.org/acs-research-data-center/)
@@ -243,7 +240,7 @@ _____
 - [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
-# [<span style="color:red">Second discussion in groups - what is YOUR take home message from the workshop so far? Questions? Suggestions?</span>](https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1)
+# [<span style="color:red">Second discussion in groups - what is YOUR take home message from the workshop so far? Questions? Suggestions?</span>](https://jamboard.google.com/d/1InsUJ9Wg50_GgGqVMPjwgFY0xAScTYY__2NStd6O8iI/viewer?f=1)
 
 _____
 ## 7. Publication ethics
@@ -266,3 +263,9 @@ _____
 
 - [Good read from La Trobe University](https://latrobe.libguides.com/wherepublish/intro)
 
+
+Jamboards from previous workshops:
+
+2021-02-19:     
+Important for YOU: https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0     
+Take home: https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1
