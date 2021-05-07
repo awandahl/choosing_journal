@@ -258,7 +258,3 @@ _____
 
 - [Good read from La Trobe University](https://latrobe.libguides.com/wherepublish/intro)
 
-
-______
-## Course administrative space below
-
