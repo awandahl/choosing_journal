@@ -14,11 +14,6 @@ _____
 - Check time from submission to first decision and publication of the article, as well as the acceptance rate
 - Avoid to submit to a shady publisher  
 
-
-# [<span style="color:red">Initial discussion in groups - what is important for YOU when deciding to which journal your manuscript will be submitted to?</span>](https://jamboard.google.com/d/1InsUJ9Wg50_GgGqVMPjwgFY0xAScTYY__2NStd6O8iI/edit?usp=sharing)
-
-
-
 You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
 *"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
@@ -242,8 +237,6 @@ _____
 - [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
 ```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
 
-# [<span style="color:red">Second discussion in groups - what is YOUR take home message from the workshop so far? Questions? Suggestions?</span>](https://jamboard.google.com/d/1InsUJ9Wg50_GgGqVMPjwgFY0xAScTYY__2NStd6O8iI/viewer?f=1)
-
 _____
 ## 7. Publication ethics
 
@@ -269,8 +262,3 @@ _____
 ______
 ## Course administrative space below
 
-Jamboards from previous workshops:
-
-2021-02-19:          
-Important for YOU: https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=0     
-Take home: https://jamboard.google.com/d/1RrwqBqmKAxQF5C9x_qs7WpSsn-CI_BhJPcJMD1GPFKw/viewer?f=1
