@@ -5,6 +5,11 @@ This is the [page you are looking at https://awandahl.github.io/choosing_journal
  
 _____
 
+## Thesis content and article publishing
+
+https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/
+
+_____
 ## Why should you do this?
 
 - Find the best possible journal for exactly your topic/subject and your audience
