@@ -1,8 +1,8 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page and *tool box* for the [PhD Workshop: Choosing a journal](https://www.kth.se/biblioteket/kalender/extrainsatt-doktorandworkshop-valja-tidskrift-1.1052127?date=2021-03-19&orgdate=2021-03-12&length=1&orglength=0) held at KTH (zoom) 2021-03-19.       
+## This is a support page and *tool box* for the Workshop Choosing a journal held at ITM 2021-09-03.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
-[Greta Quesada Richardson](https://www.kth.se/profile/gretaqr) email: gretaqr@kth.se     
+ 
 _____
 
 ## Why should you do this?
