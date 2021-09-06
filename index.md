@@ -10,6 +10,13 @@ _____
 https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/
 
 _____
+
+
+## TIP!! 
+
+When submitting to a journal, clearly state why your manuscript fits the scope of the journal in the cover letter!!!
+
+_____
 ## Why should you do this?
 
 - Find the best possible journal for exactly your topic/subject and your audience
