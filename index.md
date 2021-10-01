@@ -1,6 +1,6 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page and *tool box* for the Workshop Choosing a journal held at ITM 2021-09-03.       
+## This is a support page and *tool box* for the Workshop Choosing a journal held at 2021-10-01.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
  
 _____
