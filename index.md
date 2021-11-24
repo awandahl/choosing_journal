@@ -220,7 +220,7 @@ _____
 
 ### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another number that is of interest is the likeliness that your manuscript is accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
-### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*   
+### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*   
   
 - [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
 ```A very good read about the topic```
