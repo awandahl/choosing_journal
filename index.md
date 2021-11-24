@@ -37,9 +37,7 @@ _____
 
 ### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
-### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors - Read About the Journal (Aims & scope) - Read Instructions for Authors*
-
-
+### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*
 
 ### General non publisher-specific databases:
 
