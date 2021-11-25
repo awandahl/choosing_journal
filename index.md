@@ -236,12 +236,11 @@ _____
 ```Read about impact factors and turn-around time on the journals' webpages```
 
 ### Peer review 
-- [Transpose](https://transpose-publishing.github.io/) (newly added to this page - not completely evaluated)   
+- [Transpose](https://transpose-publishing.github.io/) (ASAPbio)   
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
 ### Editorial policies 
-- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/)  (newly added to this page - not completely evaluated)  
-```PREP is an online platform contributing to the responsible organisation of editorial procedures by scholarly journals. It facilitates journal editors to become transparent about their editorial procedures, advises journal editors and publishers on potential improvements of their peer review procedures, and presents integrated information about the variety of review procedures currently in use. PREP also maintains a database of journals’ current peer review formats and provides information and tools for journals to use journal metrics in a responsible way. ```
+- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/) (CWTS) ```Facilitates journal editors to become transparent about their editorial procedures```
 
 _____
 ## 7. Publication ethics
