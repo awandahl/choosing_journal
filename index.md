@@ -80,7 +80,7 @@ _____
  - [<span style="color:red">MIAR</span>](https://miar.ub.edu/)    
 ```Comprehensive database of 40.000+ journals and their database coverage. From Universitat de Barcelona```    
 
-- [<span style="color:red">Web of Science Master Journals List</span>](https://mjl.clarivate.com/home)    
+- [<span style="color:red">Web of Science Master Journals List a.k.a. Science Citation Index</span>](https://mjl.clarivate.com/home)    
 ```Journal's "profile pages" are visible after login```     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List](https://youtu.be/lYa_Ujg_pxA)
 
