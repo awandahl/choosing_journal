@@ -237,8 +237,11 @@ _____
 
 _____
 ## 7. Publication ethics
+ 
+Define the roles! Are all authors really "authors"? There are other ways to contribute to a journal article than being an author:    
+[CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/)
 
-"If I have several results on one topic, should I put all the results and submit it to a high impact journal, or separate them into several papers and submit it to standard impact journals? Which one is better for both academic impact and future career development?"
+Beware of salami slicing: "If I have several results on one topic, should I put all the results and submit it to a high impact journal, or separate them into several papers and submit it to standard impact journals? Which one is better for both academic impact and future career development?"
 
 - [Miguel Roig: Avoiding Plagiarism, Self-plagiarism, and Other Questionable Writing Practices: A Guide to Ethical Writing](https://ori.hhs.gov/sites/default/files/plagiarism.pdf)
 - [Nature Materials 2005: The cost of salami slicing](https://www.nature.com/articles/nmat1305)
