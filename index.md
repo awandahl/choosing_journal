@@ -32,7 +32,7 @@ Usually there is a very good reason why many of your colleagues publish in the s
 _____
 ## 1. Find a candidate based on topic/subject, article type and study type:
 
-### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
+#### The aim is to enter an abstract, and possibly a title and some keywords into a database and get examples of journals that has published in similar topics before.
 
 ### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*
 
@@ -127,7 +127,7 @@ _____
 _____
 ## 3. Check journal ranking in your subject
 
-### The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.  
+#### The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.  
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
 > - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, [JIF](https://en.wikipedia.org/wiki/Impact_factor) and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
@@ -161,7 +161,7 @@ _____
 _____
 ## 4. Check the Open Access options
 
-### The aim is to check wether the journal you have in mind has any option for Open Access publishing (OA). To publish OA has become the norm and most research funders require that your research results is in the open, for everyone to read.  
+#### The aim is to check wether the journal you have in mind has any option for Open Access publishing (OA). To publish OA has become the norm and most research funders require that your research results is in the open, for everyone to read.  
 
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
@@ -176,7 +176,7 @@ _____
 _____
 ## 5. Check the funders' and journals' Research Data requirements
 
-### The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818).  
+#### The aim is to find out if your research funder has any special research data requirements. Some journals and publishers also have demands when it comes to accompanying data. One very basic requirement is that you at least should have a plan for how you handle your data, a so called [Data Management Plan (DMP)](https://www.kth.se/en/biblioteket/publicera-analysera/hantera-forskningsdata/datahanteringsplan-1.1002818).  
 
 - [Sherpa RoMEO](https://v2.sherpa.ac.uk/romeo/)
 
@@ -214,7 +214,7 @@ _____
 _____
 ## 6. Check Acceptance Rate, Turn-Around-Time, Peer Review and editorial policies
 
-### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another number that is of interest is the likeliness that your manuscript is accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
+#### The aim is to find the average time it takes from the moment you submit your manuscript to the first decision, possible acceptance and finally real publication. Another number that is of interest is the likeliness that your manuscript is accepted, the so called acceptence rate. The acceptance rate is usually much lower in high ranking journals. It's also useful to know a little about the peer-review process.  
 
 ### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*   
   
