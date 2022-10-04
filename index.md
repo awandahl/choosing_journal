@@ -23,7 +23,11 @@ You will eventually arrive to a well motivated decision of a journal where to se
 
 *"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
+_____
 
+## 0. Follow the publishing tradition at your department or in your research group:
+
+Usually there is a very good reason why many of your colleagues publish in the same journals time after time. The obvious reason for this is that the journals are specialized forums for exactly the topic you are investigating. Most of the experts in the field may use the same venue, and you or your supervisor may even know the editors personally. These journals are places for relevant scientific conversations. We can call this "publishing in the comfort zone".  
 
 _____
 ## 1. Find a candidate based on topic/subject, article type and study type:
