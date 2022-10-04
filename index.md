@@ -27,7 +27,7 @@ _____
 
 ## 0. Follow the publishing tradition at your department or in your research group:
 
-Usually there is a very good reason why many of your colleagues publish in the same journals time after time. The obvious reason for this is that the journals are specialized forums for exactly the topic you are investigating. Most of the experts in the field may use the same venue, and you or your supervisor may even know the editors personally. These journals are places for relevant scientific conversations. We can call this "publishing in the comfort zone".  
+Usually there is a very good reason why many of your colleagues publish in the same journals again and again. The obvious reason for this is that the journals are specialized forums for exactly the topic you are investigating. Most of the experts in the field may use the same venue, and you or your supervisor may even know the editors personally. These journals are places for relevant scientific conversations. We can call this "publishing in the comfort zone".
 
 _____
 ## 1. Find a candidate based on topic/subject, article type and study type:
