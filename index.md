@@ -271,8 +271,8 @@ _____
  
 ## Questions
  
-- Types of publishing, Open, Green, Bronze, Diamond, clarify it.
-- Creative Commons licenses
+- Types of publishing, Open, Green, Bronze, Diamond, clarify it. [https://en.wikipedia.org/wiki/Open_access]
+- Creative Commons licenses  [https://creativecommons.org/about/cclicenses/]
 - Good practices for publishing, conference versus journal articles. Extending a conference paper to a journal paper? Making a journal paper and then a part of it developing it further for a conference? What is good, and what is ethical? How to do the best work and choose what's best for your research?
 - How to find journals with Open peer review?
 - How to find journals with Diamond open access. Any reputable ones?"
