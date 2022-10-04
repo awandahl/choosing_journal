@@ -130,7 +130,7 @@ _____
 #### The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.  
 
 > - Remember to never compare two journals from different subject areas unless the indicator used is [field-normalized](https://arxiv.org/abs/1801.09985)
-> - [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, [JIF](https://en.wikipedia.org/wiki/Impact_factor) and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
+> - [Journal Citation Indicator (JCI)](https://clarivate.com/blog/introducing-the-journal-citation-indicator-a-new-field-normalized-measurement-of-journal-citation-impact/), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) and [SNIP](https://www.journalindicators.com/methodology) **are** field-normalized, [JIF](https://en.wikipedia.org/wiki/Impact_factor) and [CiteScore](https://en.wikipedia.org/wiki/CiteScore) **are not**.  
 
 [<span style="color:red">CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
@@ -138,7 +138,7 @@ _____
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
 
 [Journal Citations Reports](https://jcr.clarivate.com/)    
-- Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor)     
+- Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor) and [Journal Citation Indicator (JCI)](https://clarivate.com/blog/introducing-the-journal-citation-indicator-a-new-field-normalized-measurement-of-journal-citation-impact/)     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about the Journal Impact Factor from Clarivate (the provider of Web of Science)](https://www.youtube.com/watch?v=ulidYM0ap_A&feature=youtu.be)     
 - Based on citation data from Web of Science     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/JsFGP2LFZ48)
