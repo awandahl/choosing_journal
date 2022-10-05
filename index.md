@@ -230,7 +230,7 @@ _____
 ```A database of journal policies on peer review, co-reviewing, and preprinting```
 
 ### Editorial policies 
-- [Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/) (CWTS)    
+- [Responsible Journals - Platform for Responsible Editorial Policies (PREP)](https://www.responsiblejournals.org/) (CWTS)    
  ```Facilitates journal editors to become transparent about their editorial procedures```
 
 _____
