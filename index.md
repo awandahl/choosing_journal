@@ -161,7 +161,7 @@ _____
 
 - [<span style="color:red">Publish Open Access - we cover your costs</span>](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/publicera-open-access-vi-betalar-1.859196)  (KTH Library)
 
-- [KTH policy for publishing](https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744)
+- [KTH policy for publishing]([https://www.kth.se/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744](https://www.kth.se/en/biblioteket/publicera-analysera/vagledning-for-publicering/kth-s-policy-for-publicering-1.854744))
 
 - [KTH searchtool for finding journals with an OA-option](https://app.scifree.se/kth)    
 
