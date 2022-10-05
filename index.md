@@ -1,6 +1,6 @@
 This is the [page you are looking at https://awandahl.github.io/choosing_journal/](https://awandahl.github.io/choosing_journal/)
 
-## This is a support page and *tool box* for Choosing a Journal workshop.       
+## This is a support page and *tool box* for the "Choosing a Journal" workshop.       
 [Anders Wändahl](https://www.kth.se/profile/aw) email: aw@kth.se      
  
 _____
