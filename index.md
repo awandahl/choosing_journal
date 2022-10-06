@@ -256,13 +256,12 @@ _____
 - Possibility to suggest peer-reviewers
 
 ____
- 
- ## Thesis content and article publishing
+## Thesis content and article publishing
 
 https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/
 
 _____
- ## TIP!! 
+## TIP!! 
 
 When submitting, clearly state why your manuscript fits the scope of the journal in the cover letter!!!
 
