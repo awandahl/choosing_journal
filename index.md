@@ -212,9 +212,8 @@ _____
 
 ### <span style="color:red">*Read About the Journal (Aims & scope) - Read Instructions for Authors*   
   
-- [Scholarly Kitchen: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
-- [Scholarly Kitchen 2022: "Guest Post - Publishing Fast and Slow: A Review of Publishing Speed in the Last Decade" by Christos Petrou]([[https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1](https://scholarlykitchen.sspnet.org/2022/11/08/guest-post-publishing-fast-and-slow-a-review-of-publishing-speed-in-the-last-decade/?informz=1&nbd=e636eba3-2ff4-400c-ad71-1626215fc572&nbd_source=informz)  
-```Very good reads about the topic```
+- [Scholarly Kitchen 2020: "Guest Post - Author-Friendly Journal Websites" by Jerry A. Jacobs](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1)     
+- [Scholarly Kitchen 2022: "Guest Post - Publishing Fast and Slow: A Review of Publishing Speed in the Last Decade" by Christos Petrou](https://scholarlykitchen.sspnet.org/2020/05/20/guest-post-author-friendly-journal-websites/?informz=1](https://scholarlykitchen.sspnet.org/2022/11/08/guest-post-publishing-fast-and-slow-a-review-of-publishing-speed-in-the-last-decade/?informz=1&nbd=e636eba3-2ff4-400c-ad71-1626215fc572&nbd_source=informz)  
 
 - [SciRev](https://scirev.org/)   
 ```Researchers sharing their experiences - non-profit```
