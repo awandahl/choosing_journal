@@ -37,8 +37,8 @@ _____
 ```Login required (free). Click on the "Match Manuscript" button and login.```    
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List Manuscript Matcher](https://youtu.be/lUzhWlPcCy8)
  
-- [EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     
-```Choose "Abstract/Keyword" in the left tab and paste your abstract in the search field - a limited number of searches until you have to login```     
+- ~~[EdanzJournal Selector](https://en-author-services.edanzgroup.com/journal-selector)     ~~
+~~ ```Choose "Abstract/Keyword" in the left tab and paste your abstract in the search field - a limited number of searches until you have to login```     ~~
 
 - [JANE](http://jane.biosemantics.org/)      
 ```Biomedicine only, paste in your abstract and search```     
