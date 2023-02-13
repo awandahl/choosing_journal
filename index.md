@@ -36,9 +36,6 @@ _____
  - [Web of Science Master Journals List Manuscript Matcher](https://mjl.clarivate.com/home)       
 ```Login required (free). Click on the "Match Manuscript" button and login.```    
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List Manuscript Matcher](https://youtu.be/lUzhWlPcCy8)
- 
-- [~~EdanzJournal Selector~~](https://en-author-services.edanzgroup.com/journal-selector)    
- ~~Choose "Abstract/Keyword" in the left tab and paste your abstract in the search field - a limited number of searches until you have to login~~    
 
 - [JANE](http://jane.biosemantics.org/)      
 ```Biomedicine only, paste in your abstract and search```     
@@ -269,11 +266,3 @@ _____
 When submitting, clearly state why your manuscript fits the scope of the journal in the cover letter!!!
 
 _____
-## Questions
- 
-- Types of publishing, Open, Green, Bronze, Diamond, clarify it. [https://en.wikipedia.org/wiki/Open_access]
-- Creative Commons licenses  [https://creativecommons.org/about/cclicenses/]
-- Good practices for publishing, conference versus journal articles. Extending a conference paper to a journal paper? Making a journal paper and then a part of it developing it further for a conference? What is good, and what is ethical? How to do the best work and choose what's best for your research?  [https://ori.hhs.gov/sites/default/files/plagiarism.pdf]
-- How to find journals with Open peer review? [https://plos.org/resource/open-peer-review/]
-- How to find journals with Diamond open access. Any reputable ones? [https://doaj.org/] Filter on "Without article processing charges (APCs)"
-- How to think about the importance of impact factor? What other variables are important that give a quick assessment of journal quality?
