@@ -98,6 +98,8 @@ _____
 
 [Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) (find excel-sheet on page)
 
+[ERIC](https://eric.ed.gov/?journals)    
+ 
 [GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) (find excel-sheet on page)
 
 [GeoRef](https://www.americangeosciences.org/information/georef/serials)
