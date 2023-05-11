@@ -124,7 +124,7 @@ _____
 
 
 _____
-## 3. Check journal ranking in your subject
+## 3a. Check journal ranking in your subject
 
 #### The aim is to compare different journals in terms of the average number of citations received. This is called the Impact Factor in common language.  
 
@@ -157,6 +157,28 @@ _____
 - Based on expert panels     
 <img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use "Norwegian list"](https://youtu.be/vSuKlHSbs8E)
 
+ ## 3b. Check conference ranking in your subject
+
+#### The aim is to compare different conferences in terms of different "impact" scores.  
+
+> - Remember to never compare two conferences from different subject areas.
+ 
+[Scopus Sources](https://www.scopus.com/sources)
+- Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
+- Based on citation data from Scopus
+ 
+ [Conference Rank](http://www.conferenceranks.com/)   
+- Old ranking but may be useful
+- Indicators = Excellence in Research in Australia (ERA 2010), Qualis (2012), Microsoft Academic Graph (2014)    
+ 
+ [Research.com - Best Conferences](https://research.com/conference-rankings/computer-science)    
+- Indicators = "Impact Score"
+ 
+
+[<span style="color:red">CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
+- Indicator = [SNIP](https://www.journalindicators.com/methodology)
+- Based on citation data from Scopus and Web of Science    
+<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
 _____
 ## 4. Check the Open Access options
 
