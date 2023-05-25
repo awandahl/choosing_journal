@@ -164,7 +164,7 @@ _____
 > - Remember to never compare two conferences from different subject areas.
  
 [Scopus Sources](https://www.scopus.com/sources)
-- Choose Source Type = Conference Proceednings in the left hand menu
+- Choose "Source Type" = "Conference Proceednings" in the left hand menu
 - Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus
  
