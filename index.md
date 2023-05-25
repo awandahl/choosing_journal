@@ -171,9 +171,6 @@ _____
 - Old ranking but may be useful
 - Indicators = Excellence in Research in Australia (ERA 2010), Qualis (2012), Microsoft Academic Graph (2014)    
  
- [Research.com - Best Conferences](https://research.com/conference-rankings/computer-science)    
-- Indicators = "Impact Score"
-
 _____
 ## 4. Check the Open Access options
 
