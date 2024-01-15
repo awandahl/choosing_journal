@@ -136,8 +136,8 @@ _____
 - Based on citation data from Scopus     
 
 ["Norwegian list"](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action?request_locale=en)
- - Indicators: 2, 1 or - (2 is the best) [<span style="color:red">NEW!</span> ["Level X"](https://kanalregister.hkdir.no/publiseringskanaler/NivaX) for "questionable" journals.
-- Based on expert panels     
+ - Indicators: 2, 1, 0 or X (2 is the best, X is for  "questionable" journals)
+ - Based on expert panels     
 
 ## 3b. Check conference ranking in your subject
 
