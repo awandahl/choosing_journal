@@ -49,20 +49,14 @@ _____
 ### Publisher specific:
 
 - [Elsevier JournalFinder](https://journalfinder.elsevier.com/)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Elsevier JournalFinder](https://youtu.be/Spa4ql0ZpZA)
 
 - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use IEEE Publication Recommender](https://youtu.be/7Fe28UdEiuU)
 
 - [Springer Nature Journal Suggester](https://journalsuggester.springer.com/)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Springer Nature Journal Suggester](https://youtu.be/qTItQAqLoHA)
 
 - [Taylor & Francis Journal Suggester](https://authstaging.wpengine.com/publishing-your-research/choosing-a-journal/journal-suggester/)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Taylor & Francis Journal Suggester - but no joy](https://youtu.be/M_Deg_wZT2M)
 
 - [Wiley JournalFinder](https://journalfinder.wiley.com/search?type=match)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Wiley JournalFinder - and getting strange results](https://youtu.be/sEsBSCemAhg)
-
 
 _____
 ## 2. Check coverage/indexing in major bibliographic databases (database indexing)
@@ -81,10 +75,8 @@ _____
 
 - [<span style="color:red">Web of Science Master Journals List</span>](https://mjl.clarivate.com/home)    
 ``` A.k.a. Science Citation Index. Journal's "profile pages" are visible after login```     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" width="30">&nbsp;&nbsp;[Video about how to use Web of Science Master Journals List](https://youtu.be/lYa_Ujg_pxA)
 
 - [Scopus Sources](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=sbrowse)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scopus Sources](https://youtu.be/TIbe8tS1mXA)
 
 
 ### Subject specific:
@@ -118,9 +110,6 @@ _____
 
 [zbMATH](https://zbmath.org/serials/)    
 
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[An example on how to find information about a journal in a subject specific database : mathematics](https://youtu.be/JQD790U1qjo)
-
-
 _____
 ## 3a. Check journal ranking in your subject
 
@@ -132,28 +121,23 @@ _____
 [<span style="color:red">CWTS Journal Indicators</span>](https://www.journalindicators.com/) 
 - Indicator = [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus and Web of Science    
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use CWTS Journal Indicators](https://youtu.be/OZgO-2dHqPo)
 
 [Journal Citations Reports](https://jcr.clarivate.com/)    
 - Indicator: [Journal Impact Factor (JIF)](https://en.wikipedia.org/wiki/Impact_factor) and [Journal Citation Indicator (JCI)](https://clarivate.com/blog/introducing-the-journal-citation-indicator-a-new-field-normalized-measurement-of-journal-citation-impact/)     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about the Journal Impact Factor from Clarivate (the provider of Web of Science)](https://www.youtube.com/watch?v=ulidYM0ap_A&feature=youtu.be)     
+ 
 - Based on citation data from Web of Science     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Journal Citations Reports](https://youtu.be/JsFGP2LFZ48)
 
 [<span style="color:red">Scimago Journal & Country Rank</span>](https://www.scimagojr.com/)
 - Indicator = [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank) 
 - Based on citation data from Scopus     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scimago Journal & Country Rank](https://youtu.be/4L3M06hoiCI)
 
 [Scopus Sources](https://www.scopus.com/sources)
 - Indicators = [CiteScore](https://en.wikipedia.org/wiki/CiteScore), [SJR](https://en.wikipedia.org/wiki/SCImago_Journal_Rank), [SNIP](https://www.journalindicators.com/methodology)
 - Based on citation data from Scopus     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use Scopus Sources](https://youtu.be/xQCJ7lOte6E)
 
 ["Norwegian list"](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action?request_locale=en)
  - Indicators: 2, 1 or - (2 is the best) [<span style="color:red">NEW!</span> ["Level X"](https://kanalregister.hkdir.no/publiseringskanaler/NivaX) for "questionable" journals.
 - Based on expert panels     
-<img src="https://camo.githubusercontent.com/70353f93f89a535f6bc3354553f77b26a3ac3f3e15786e68069814636ec84da6/68747470733a2f2f7075626c6963646f6d61696e766563746f72732e6f72672f70686f746f732f766964656f2d706c617965722e706e67" align="left" width="30">&nbsp;&nbsp;[Video about how to use "Norwegian list"](https://youtu.be/vSuKlHSbs8E)
 
 ## 3b. Check conference ranking in your subject
 
