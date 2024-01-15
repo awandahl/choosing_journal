@@ -18,6 +18,7 @@ You will eventually arrive to a well motivated decision of a journal where to se
 
 *"I have choosen to submit to the "[International Journal of Fracture](https://www.springer.com/journal/10704/)" because it is perfect for my topic, they accept the kind of article I have written, the metrics of the journal seems to be fairly good in comparison to other journals in the same field, the journal is covered by the major databases in my field, there is an Open Access option and the APC will be covered by the KTH library, the turn-around-time and acceptance rate seems fairly decent and my supervisor is also happy about my decison. By checking all aspects of this journal I also know that it isn't among the shady journals that sometimes are called predatory."*  
 
+When submitting, you can also clearly state why your manuscript fits the scope of the journal in the cover letter.
 _____
 
 ## 0. Follow the publishing tradition at your department or in your research group:
@@ -262,9 +263,3 @@ ____
 
 https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/
 
-_____
-## TIP!! 
-
-When submitting, clearly state why your manuscript fits the scope of the journal in the cover letter!!!
-
-_____
