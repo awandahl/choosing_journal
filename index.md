@@ -12,7 +12,7 @@ _____
 - Find alternative journals to submit to (in the unlikely event that you are rejected)
 - Find alternative journals that you didn't know of before - just as an orientation
 - Check time from submission to first decision and publication of the article, as well as the acceptance rate
-- Avoid to submit to a shady publisher  
+- Avoid to submit to a shady publisher  [KIB video](https://kib.ki.se/en/publish-analyse/strategic-publishing/questionable-journals)
 
 You will eventually arrive to a well motivated decision of a journal where to send your manuscript and you can - with pride - say something like...
 
