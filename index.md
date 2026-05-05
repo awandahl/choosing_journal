@@ -59,8 +59,8 @@ _____
 
 - [Wiley JournalFinder](https://journalfinder.wiley.com/search?type=match)     
 
-### Why would you use a specific publisher in the first place...?
-Cascaded peer review is a process where a manuscript rejected by one journal, together with its referee reports, is transferred directly to another journal (usually within the same publisher) instead of starting peer review again from scratch.
+### Cascaded peer review:
+Why would you use a specific publisher in the first place...? Cascaded peer review is a process where a manuscript rejected by one journal, together with its referee reports, is transferred directly to another journal (usually within the same publisher) instead of starting peer review again from scratch.
 
 
 _____
