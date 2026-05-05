@@ -145,7 +145,7 @@ Relevant tools and pages include:
 
 - The journal website.
 - Publisher open access information pages.
-- [Open policy finder / Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/).
+- [Open policy finder / Sherpa Romeo](https://openpolicyfinder.jisc.ac.uk/).
 - Local library guidance and publishing agreements.
 
 ---
@@ -178,5 +178,5 @@ A practical workflow is:
 
 ## Final note
 
-The goal is not to find the “best” journal in the abstract. The goal is to find the most suitable journal for **your** manuscript, audience, field, and publishing constraints.
+The goal is not to find the “best” journal. The goal is to find the most suitable journal for **your** manuscript, audience, field, and publishing constraints.
 
