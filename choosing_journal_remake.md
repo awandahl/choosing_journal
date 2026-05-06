@@ -96,7 +96,6 @@ This is often called **database indexing**.
 - [EconLit](https://www.aeaweb.org/econlit/journal_list.php)
 - [Ei Compendex](https://www.elsevier.com/solutions/engineering-village/content/compendex) — find the Excel sheet on the page.
 - [ERIC](https://eric.ed.gov/?journals)
-- [GEOBASE](https://www.elsevier.com/solutions/engineering-village/content/geobase) — find the Excel sheet on the page.
 - [GeoRef](https://www.americangeosciences.org/information/georef/serials)
 - [Inspec](https://www.theiet.org/publishing/inspec/inspec-content-coverage)
 - [MEDLINE / PubMed](https://www.ncbi.nlm.nih.gov/nlmcatalog/)
