@@ -51,6 +51,7 @@ The goal here is to enter an abstract, and sometimes also a title and keywords, 
 
 - [Elsevier JournalFinder](https://journalfinder.elsevier.com/)
 - [IEEE Publication Recommender](https://publication-recommender.ieee.org/home)
+- [Sage Journal Recommender](https://journal-recommender.sagepub.com/)  
 - [Springer Nature Journal Suggester](https://journalsuggester.springer.com/)
 - [Taylor & Francis Journal Suggester](https://authstaging.wpengine.com/publishing-your-research/choosing-a-journal/journal-suggester/)
 - [Wiley JournalFinder](https://journalfinder.wiley.com/search?type=match)
