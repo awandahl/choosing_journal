@@ -61,11 +61,11 @@ Cascaded peer review is a process where a manuscript rejected by one journal, to
 
 Typical life‑science cascade:
 
-- PLOS Biology (flagship, highly selective)
-↓
-- PLOS Medicine / PLOS Genetics / PLOS Pathogens / other field‑specific PLOS titles (selective specialty journals)
-↓
-- PLOS ONE (broad, sound‑science, methodological correctness focus)
+- PLOS Biology (flagship, highly selective)  
+↓  
+- PLOS Medicine / PLOS Genetics / PLOS Pathogens / other field‑specific PLOS titles (selective specialty journals)  
+↓  
+- PLOS ONE (broad, sound‑science, methodological correctness focus)  
 
 In practice, transfers can jump directly from PLOS Biology (or another selective PLOS journal) straight to PLOS ONE, carrying reviews.
 
