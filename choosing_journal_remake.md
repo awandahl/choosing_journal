@@ -57,7 +57,17 @@ The goal here is to enter an abstract, and sometimes also a title and keywords, 
 
 ### Cascaded peer review
 
-Cascaded peer review is a process where a manuscript rejected by one journal, together with its referee reports, is transferred directly to another journal, usually within the same publisher, instead of starting peer review again from the beginning.
+Cascaded peer review is a process where a manuscript rejected by one journal, together with its referee reports, is transferred directly to another journal, usually within the same publisher, instead of starting peer review again from the beginning.  
+
+Typical life‑science cascade:
+
+- PLOS Biology (flagship, highly selective)
+↓
+- PLOS Medicine / PLOS Genetics / PLOS Pathogens / other field‑specific PLOS titles (selective specialty journals)
+↓
+- PLOS ONE (broad, sound‑science, methodological correctness focus)
+
+In practice, transfers can jump directly from PLOS Biology (or another selective PLOS journal) straight to PLOS ONE, carrying reviews.
 
 ---
 
