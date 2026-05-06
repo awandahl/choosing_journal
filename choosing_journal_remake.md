@@ -1,7 +1,5 @@
 # Choosing a Journal
 
-This is the page you are looking at: [Choosing a Journal](https://awandahl.github.io/choosing_journal/).
-
 This page is a support resource and **toolbox** for the workshop *Choosing a Journal*.
 [Anders Wändahl](https://www.kth.se/profile/aw) — aw@kth.se
 
